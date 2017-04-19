@@ -1,0 +1,10 @@
+rysiu      | 2017-04-12 | 18:49:50   | EASY       | HELSINKI   | 95        
+rysiu      | 2017-04-12 | 18:50:45   | EASY       | PRAGUE     | 96        
+Reksiu     | 2017-04-12 | 18:59:44   | EASY       | ZAGREB     | 75        
+Pawel      | 2017-04-13 | 08:37:51   | HARD       | PYONGYANG  | 0         
+Pawel      | 2017-04-13 | 08:43:16   | EASY       | ANDORRA LA | 39        
+res        | 2017-04-13 | 09:06:03   | EASY       | BRUSSELS   | 97        
+Gosia      | 2017-04-13 | 19:07:11   | HARD       | NASSAU     | 0         
+Gosia      | 2017-04-13 | 19:12:06   | HARD       | ANKARA     | 144       
+Gosia      | 2017-04-13 | 19:13:47   | HARD       | DUSHANBE   | 63        
+Gosia      | 2017-04-13 | 19:17:12   | HARD       | BERLIN     | 71        
