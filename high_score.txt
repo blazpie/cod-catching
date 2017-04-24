@@ -8,3 +8,9 @@ Gosia      | 2017-04-13 | 19:07:11   | HARD       | NASSAU     | 0
 Gosia      | 2017-04-13 | 19:12:06   | HARD       | ANKARA     | 144       
 Gosia      | 2017-04-13 | 19:13:47   | HARD       | DUSHANBE   | 63        
 Gosia      | 2017-04-13 | 19:17:12   | HARD       | BERLIN     | 71        
+rety       | 2017-04-24 | 16:57:08   | EASY       | VALLETTA   | 116       
+tty        | 2017-04-24 | 16:57:47   | EASY       | BELGRADE   | 105       
+blaz       | 2017-04-24 | 16:58:24   | EASY       | VIENNA     | 119       
+blaz       | 2017-04-24 | 16:58:40   | HARD       | WARSAW     | 158     
+gre        | 2017-04-24 | 16:59:39   | EASY       | DUBLIN     | 127       
+blaz       | 2017-04-24 | 17:00:04   | EASY       | VALLETTA   | 127       
