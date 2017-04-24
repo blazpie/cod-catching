@@ -129,7 +129,9 @@ while True:#'main loop' runs once a game, when restart, runs again
         #loop is forcing user to enter E or H to chose a level
         loop = True
         while loop == True:
-            difficulty_level = input("Enter \"E\" to play in easy (only European capitols, 5 tries) mode or \"H\" to play hard (whole World, 12 tries): ").upper()
+            difficulty_level = input("Enter \"E\" to play in easy " +
+                                     "(only European capitols, 5 tries) mode " +
+                                     "or \"H\" to play hard (whole World, 12 tries): ").upper()
             if difficulty_level == "H":
                 difficulty_level = "HARD" #changed to ease print and output
                 question_base = 183 #choosing number of text lines to import from database
