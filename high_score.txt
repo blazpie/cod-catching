@@ -14,3 +14,5 @@ blaz       | 2017-04-24 | 16:58:24   | EASY       | VIENNA     | 119
 blaz       | 2017-04-24 | 16:58:40   | HARD       | WARSAW     | 158     
 gre        | 2017-04-24 | 16:59:39   | EASY       | DUBLIN     | 127       
 blaz       | 2017-04-24 | 17:00:04   | EASY       | VALLETTA   | 127       
+ret        | 2017-04-25 | 09:08:42   | EASY       | RIGA       | 113       
+ert        | 2017-04-25 | 11:13:35   | EASY       | BERN       | 133       
